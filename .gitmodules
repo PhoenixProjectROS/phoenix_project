@@ -1,0 +1,36 @@
+[submodule "src/geographiclib"]
+	path = src/geographiclib
+	url = https://github.com/sotex/geographiclib.git
+[submodule "src/navigation"]
+	path = src/navigation
+	url = https://github.com/ros-planning/navigation.git
+[submodule "src/robot_localization"]
+	path = src/robot_localization
+	url = https://github.com/cra-ros-pkg/robot_localization.git
+[submodule "src/ros_arduino_bridge"]
+	path = src/ros_arduino_bridge
+	url = https://github.com/kk6axq/ros_arduino_bridge.git
+[submodule "src/ros_imu_bno055"]
+	path = src/ros_imu_bno055
+	url = https://github.com/RoboticArts/ros_imu_bno055.git
+[submodule "src/rosserial"]
+	path = src/rosserial
+	url = https://github.com/ros-drivers/rosserial
+[submodule "src/rplidar_ros"]
+	path = src/rplidar_ros
+	url = https://github.com/Slamtec/rplidar_ros.git
+[submodule "src/rqt_multiplot_plugin"]
+	path = src/rqt_multiplot_plugin
+	url = https://github.com/ANYbotics/rqt_multiplot_plugin.git
+[submodule "src/rviz_satellite"]
+	path = src/rviz_satellite
+	url = https://github.com/nobleo/rviz_satellite.git
+[submodule "src/serial"]
+	path = src/serial
+	url = https://github.com/wjwwood/serial.git
+[submodule "src/waypoint_nav"]
+	path = src/waypoint_nav
+	url = https://github.com/nickcharron/waypoint_nav.git
+[submodule "src/zed-ros-wrapper"]
+	path = src/zed-ros-wrapper
+	url = https://github.com/stereolabs/zed-ros-wrapper.git
