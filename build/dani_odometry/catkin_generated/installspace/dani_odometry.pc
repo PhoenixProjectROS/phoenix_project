@@ -1,0 +1,8 @@
+prefix=/home/user/catkin_ws/install
+
+Name: dani_odometry
+Description: Description of dani_odometry
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

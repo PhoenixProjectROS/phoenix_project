@@ -1,0 +1,9 @@
+/home/user/catkin_ws/build/mpu6050-ros/firmware/CMakeFiles/rebuild_cache.dir
+/home/user/catkin_ws/build/mpu6050-ros/firmware/CMakeFiles/upload.dir
+/home/user/catkin_ws/build/mpu6050-ros/firmware/CMakeFiles/mega2560_firmware.dir
+/home/user/catkin_ws/build/mpu6050-ros/firmware/CMakeFiles/mega2560_CORE.dir
+/home/user/catkin_ws/build/mpu6050-ros/firmware/CMakeFiles/edit_cache.dir
+/home/user/catkin_ws/build/mpu6050-ros/firmware/CMakeFiles/mega2560_Wire.dir
+/home/user/catkin_ws/build/mpu6050-ros/firmware/CMakeFiles/mpu6050_ros.dir
+/home/user/catkin_ws/build/mpu6050-ros/firmware/CMakeFiles/mpu6050_ros-size.dir
+/home/user/catkin_ws/build/mpu6050-ros/firmware/CMakeFiles/mpu6050_ros-upload.dir
